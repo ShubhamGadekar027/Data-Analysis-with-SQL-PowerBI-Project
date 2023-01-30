@@ -22,4 +22,4 @@ This project is focused on data analysis of company information including revenu
 
 #### Data Visualization
 
-https://i.postimg.cc/FHBfD9qw/DA-Project.png
+<p align="center"><img src='https://i.postimg.cc/FHBfD9qw/DA-Project.png'><p align="center">
