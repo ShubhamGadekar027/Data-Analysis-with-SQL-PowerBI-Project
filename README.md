@@ -1,7 +1,9 @@
 # Data-Analysis-with-SQL-PowerBI-Project
 This project is focused on data analysis of company information including revenue, gender of directors, age, industry sector, board membership, resignation date, and retirement age of directors. 
 
--The questions answered using SQL and PowerBI include total revenue by industry sector
+#### The questions answered using SQL and PowerBI include : 
+
+-Total revenue by industry sector
 
 -Distribution of male and female directors, revenue per sector for directors with a recorded retirement age
 
@@ -19,3 +21,5 @@ This project is focused on data analysis of company information including revenu
 
 
 #### Data Visualization
+
+https://i.postimg.cc/FHBfD9qw/DA-Project.png
